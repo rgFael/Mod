@@ -1,0 +1,12 @@
+COMO OBTENER EL .JAR (sin instalar nada, desde el celular o PC):
+1. Crea una cuenta gratis en github.com y un repositorio nuevo.
+2. Sube TODO el contenido de esta carpeta (incluida la carpeta oculta .github).
+3. Ve a la pestaña "Actions" -> "build" -> espera ~3 min.
+4. Entra a la ejecución terminada y descarga "trophymod-jar" (zip con el .jar).
+5. Mete trophymod-1.0.0.jar en la carpeta mods (necesitas Fabric Loader + Fabric API 1.21.1).
+
+USO EN EL JUEGO:
+- Trofeo: receta de 6 lingotes de oro (pestaña "Trofeos" del creativo).
+- Cristal para trofeos: 8 cristales en anillo.
+- Click derecho al trofeo con el cristal -> vitrina automatica.
+- Agachado + click derecho con mano vacia -> quita el cristal.
